@@ -6,5 +6,5 @@
 
 ---
 ### Links:
-* [Folio (Website)]()
-* [Folio (Word)](https://github.com/TurnipGuy30/Engineering-Folio/raw/main/Folio%20(Word).docx)
+* [Folio (Website)](https://turnipguy30.github.io/Engineering-Folio/Site%20Files/index.html)
+* [Task Sheet](https://github.com/TurnipGuy30/Engineering-Folio/raw/main/Task%20Sheet.pdf)
