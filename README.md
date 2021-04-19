@@ -6,5 +6,5 @@
 
 ---
 ### Links:
-* [Folio (Word)]()
 * [Folio (Website)]()
+* [Folio (Word)](https://github.com/TurnipGuy30/Engineering-Folio/raw/main/Folio%20(Word).docx)
