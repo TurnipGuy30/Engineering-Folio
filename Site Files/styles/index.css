@@ -1,6 +1,7 @@
 @charset "utf-8";
 #content {
   background-color: rgb(230, 230, 230);
+  border: black 1px dotted;
   padding: 10px;
 }
 a:hover {
