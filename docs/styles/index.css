@@ -10,3 +10,7 @@ button:hover {
 a:hover {
   cursor: pointer;
 }
+td {
+  border-bottom: 1px solid black;
+  border-left: 1px solid black;
+}
