@@ -4,6 +4,9 @@
   border: black 1px dotted;
   padding: 10px;
 }
+button:hover {
+  cursor: pointer;
+}
 a:hover {
   cursor: pointer;
 }
